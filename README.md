@@ -1,4 +1,5 @@
 Blog API
+
 A simple CRUD API for managing blogs, built with Express.js and Sequelize using a PostgreSQL database. This API allows you to create, read, update, and delete blog posts. Swagger UI is integrated for API documentation and testing.
 
 Features
